@@ -1,8 +1,8 @@
-package com.devglan.service;
-
-import com.devglan.model.User;
+package com.danny.service;
 
 import java.util.List;
+
+import com.danny.model.User;
 
 public interface UserService {
 

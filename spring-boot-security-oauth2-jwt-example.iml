@@ -77,6 +77,9 @@
     <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.10" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-jwt:1.0.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.56" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.56" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.44" level="project" />
     <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:1.4" level="project" />
     <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />

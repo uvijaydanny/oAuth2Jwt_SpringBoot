@@ -1,10 +1,11 @@
-package com.devglan.controller;
+package com.danny.controller;
 
-import com.devglan.model.User;
-import com.devglan.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.*;
+
+import com.danny.model.User;
+import com.danny.service.UserService;
 
 import java.util.List;
 

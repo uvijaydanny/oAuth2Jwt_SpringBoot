@@ -1,8 +1,9 @@
-package com.devglan.dao;
+package com.danny.dao;
 
-import com.devglan.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
+
+import com.danny.model.User;
 
 @Repository
 public interface UserDao extends CrudRepository<User, Long> {
